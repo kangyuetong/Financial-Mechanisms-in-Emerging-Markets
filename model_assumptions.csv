@@ -1,0 +1,18 @@
+model_id,parameter,default_value,unit,interpretation
+saf,SAF market price,2443.02,USD/t,October 2026 NWE benchmark
+jet,Jet fuel market price,1620.97,USD/t,October 2026 NWE benchmark
+cert,Certificate revenue,350,USD/t,"Illustrative, not observed Avelia transaction"
+sub,Public incentive,200,USD/t,Illustrative
+volume,Nameplate SAF capacity,20000,t/year,Assumed capacity
+capture,Certificate revenue capture,100,%,Share of certificate proceeds retained
+capex,Initial capital expenditure,150,USD million,Illustrative upfront investment
+unitcost,Operating cost,1800,USD/t,Cash production and delivery
+util,Capacity utilisation,85,%,Annual production share
+life,Project lifetime,15,years,Constant output after year zero
+discount,Real project discount rate,10,%,Constant-price real cash flows
+tax,Corporate income tax,25,%,Simplified tax
+debt,Debt financing,50,%,Share of initial CAPEX
+interest,Debt interest rate,7,%,Fixed interest
+debtYears,Debt tenor,10,years,Equal annual principal repayment
+realisation,Producer fuel-price realisation,100,%,Share of SAF benchmark received for physical fuel
+certShare,Additional certificate proceeds eligible,100,%,Additional share of captured certificate proceeds

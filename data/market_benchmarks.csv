@@ -1,0 +1,2 @@
+period,published,region,basis,currency,unit,saf_usd_per_tonne,jet_usd_per_tonne,publisher_reported_premium_usd_per_tonne,calculated_from_rounded_prices_usd_per_tonne,source_url,status
+2026-10,2026-11-05,Northwest Europe,NWE_FOB_BARGES,USD,metric_tonne,2443.02,1620.97,822.06,822.05,https://www.general-index.com/analytics-posts/october-pricing-analysis-european-saf,"verified monthly average, not live"

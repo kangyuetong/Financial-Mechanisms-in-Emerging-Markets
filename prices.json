@@ -1,0 +1,12 @@
+{
+  "period": "2026-10",
+  "published": "2026-11-05",
+  "currency": "USD",
+  "unit": "metric_tonne",
+  "basis": "NWE_FOB_BARGES",
+  "saf": 2443.02,
+  "jet": 1620.97,
+  "reported_premium": 822.06,
+  "status": "verified monthly average, not live",
+  "source_url": "https://www.general-index.com/analytics-posts/october-pricing-analysis-european-saf"
+}
